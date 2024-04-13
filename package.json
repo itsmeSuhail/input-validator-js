@@ -1,0 +1,23 @@
+{
+  "name": "input-validator-js",
+  "version": "1.0.0",
+  "description": "An npm package for data validation ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmeSuhail/input-validator-js.git"
+  },
+  "keywords": [
+    "input-validator"
+  ],
+  "author": "itsmeSuhail",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/itsmeSuhail/input-validator-js/issues"
+  },
+  "homepage": "https://github.com/itsmeSuhail/input-validator-js#readme"
+}
